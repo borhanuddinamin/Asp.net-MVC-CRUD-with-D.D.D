@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Asp.net MVC CRUD with D.D.D.props" />
+</Project>
