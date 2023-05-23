@@ -1,0 +1,24 @@
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\bin\Debug\net7.0\CRUD.Domain.deps.json
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\bin\Debug\net7.0\CRUD.Domain.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\bin\Debug\net7.0\CRUD.Domain.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.csproj.AssemblyReference.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.AssemblyInfoInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.AssemblyInfo.cs
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.csproj.CoreCompileInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\obj\Debug\net7.0\refint\CRUD.Domain.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Domain\obj\Debug\net7.0\ref\CRUD.Domain.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\bin\Debug\net7.0\CRUD.Domain.deps.json
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\bin\Debug\net7.0\CRUD.Domain.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\bin\Debug\net7.0\CRUD.Domain.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.csproj.AssemblyReference.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.AssemblyInfoInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.AssemblyInfo.cs
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.csproj.CoreCompileInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\obj\Debug\net7.0\refint\CRUD.Domain.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\obj\Debug\net7.0\CRUD.Domain.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Domain\obj\Debug\net7.0\ref\CRUD.Domain.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cye3OwFEJ5Sducra3RqdWZffy/gIuWFeNBusHtKq0aIk6dlEsEPZEhgZpPIVIcwdf1MTW6sXewOa5HrxRfC+BQ==",
+  "success": true,
+  "projectFilePath": "F:\\crud\\Asp.net-MVC-CRUD-with-D.D.D\\Asp.net MVC CRUD with D.D.D\\CRUD.Applicatiion\\CRUD.Applicatiion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Borha\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\Borha\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Borha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Borha\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

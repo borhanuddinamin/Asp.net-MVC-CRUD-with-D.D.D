@@ -1,0 +1,34 @@
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.csproj.AssemblyReference.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.AssemblyInfoInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.AssemblyInfo.cs
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.csproj.CoreCompileInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Persistance.deps.json
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Persistance.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Persistance.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\obj\Debug\net7.0\refint\CRUD.Persistance.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\obj\Debug\net7.0\ref\CRUD.Persistance.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Applicatiion.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Domain.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Applicatiion.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Domain.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.csproj.CopyComplete
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Persistance.deps.json
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Persistance.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Persistance.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Applicatiion.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Domain.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Applicatiion.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\bin\Debug\net7.0\CRUD.Domain.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.csproj.AssemblyReference.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.AssemblyInfoInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.AssemblyInfo.cs
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.csproj.CoreCompileInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.csproj.CopyComplete
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\obj\Debug\net7.0\refint\CRUD.Persistance.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\obj\Debug\net7.0\CRUD.Persistance.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Persistance\obj\Debug\net7.0\ref\CRUD.Persistance.dll

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.net MVC CRUD with D.D.D", "Asp.net MVC CRUD with D.D.D\Asp.net MVC CRUD with D.D.D.csproj", "{0105C700-4656-42D6-A3AF-D956AAA1CEC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asp.net MVC CRUD with D.D.D", "Asp.net MVC CRUD with D.D.D\Asp.net MVC CRUD with D.D.D.csproj", "{0105C700-4656-42D6-A3AF-D956AAA1CEC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD.Domain", "CRUD.Domain\CRUD.Domain.csproj", "{C6CE9CE5-07BC-4DF7-A7C4-C7E5CBAD9AB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD.Applicatiion", "CRUD.Applicatiion\CRUD.Applicatiion.csproj", "{B5BB419C-2DA7-42F7-A01F-FE1FA4119FD4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD.Persistance", "CRUD.Persistance\CRUD.Persistance.csproj", "{9C807FFC-B77E-4187-9BDD-B008DD7DEF7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{0105C700-4656-42D6-A3AF-D956AAA1CEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0105C700-4656-42D6-A3AF-D956AAA1CEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0105C700-4656-42D6-A3AF-D956AAA1CEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CE9CE5-07BC-4DF7-A7C4-C7E5CBAD9AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CE9CE5-07BC-4DF7-A7C4-C7E5CBAD9AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CE9CE5-07BC-4DF7-A7C4-C7E5CBAD9AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CE9CE5-07BC-4DF7-A7C4-C7E5CBAD9AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5BB419C-2DA7-42F7-A01F-FE1FA4119FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BB419C-2DA7-42F7-A01F-FE1FA4119FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BB419C-2DA7-42F7-A01F-FE1FA4119FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BB419C-2DA7-42F7-A01F-FE1FA4119FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C807FFC-B77E-4187-9BDD-B008DD7DEF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C807FFC-B77E-4187-9BDD-B008DD7DEF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C807FFC-B77E-4187-9BDD-B008DD7DEF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C807FFC-B77E-4187-9BDD-B008DD7DEF7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
