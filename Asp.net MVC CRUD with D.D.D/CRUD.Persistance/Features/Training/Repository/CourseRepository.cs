@@ -14,5 +14,9 @@ namespace CRUD.Persistance.Features.Training.Repository
         public CourseRepository(DbContext dbContext) : base(dbContext)
         {
         }
+       
+        public CourseRepository(ApplicationDbContext context) : base(context)
+        {
+        }
     }
 }

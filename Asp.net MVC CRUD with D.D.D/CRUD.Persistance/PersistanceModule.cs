@@ -30,8 +30,7 @@ namespace CRUD.Persistance
             builder.RegisterType<ApplicatonUnitofWork>().As<IApplicatonUnitofWork>()
                .InstancePerLifetimeScope();
 
-            builder.RegisterType<CourseRepository>().As<ICourseRepository>()
-                .InstancePerLifetimeScope();
+          
 
 
 

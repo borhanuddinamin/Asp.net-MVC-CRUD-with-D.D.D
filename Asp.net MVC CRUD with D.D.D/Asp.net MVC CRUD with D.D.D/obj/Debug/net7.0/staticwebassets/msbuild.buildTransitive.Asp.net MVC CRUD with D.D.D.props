@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Asp.net MVC CRUD with D.D.D.props" />
-</Project>

@@ -1,0 +1,12 @@
+﻿@model CourseListModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Course</h1>
+@foreach(var Course in Model.GetCourses())
+{
+    <h2>@Course.Name</h2>
+    <h3>@Course.Fees</h3>
+}
+

@@ -1,18 +1,3 @@
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Applicatiion.deps.json
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Applicatiion.dll
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Applicatiion.pdb
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.csproj.AssemblyReference.cache
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.GeneratedMSBuildEditorConfig.editorconfig
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.AssemblyInfoInputs.cache
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.AssemblyInfo.cs
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.csproj.CoreCompileInputs.cache
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.dll
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\refint\CRUD.Applicatiion.dll
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.pdb
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\ref\CRUD.Applicatiion.dll
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Domain.dll
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Domain.pdb
-F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.csproj.CopyComplete
 F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Applicatiion.deps.json
 F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Applicatiion.dll
 F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Applicatiion.pdb
@@ -28,3 +13,18 @@ F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Applicatiion\ob
 F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Applicatiion\obj\Debug\net7.0\refint\CRUD.Applicatiion.dll
 F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.pdb
 F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.netMVCCRUDwithD.D.D\CRUD.Applicatiion\obj\Debug\net7.0\ref\CRUD.Applicatiion.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Applicatiion.deps.json
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Applicatiion.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Applicatiion.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Domain.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\bin\Debug\net7.0\CRUD.Domain.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.csproj.AssemblyReference.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.GeneratedMSBuildEditorConfig.editorconfig
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.AssemblyInfoInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.AssemblyInfo.cs
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.csproj.CoreCompileInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.csproj.CopyComplete
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\refint\CRUD.Applicatiion.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\CRUD.Applicatiion.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Applicatiion\obj\Debug\net7.0\ref\CRUD.Applicatiion.dll

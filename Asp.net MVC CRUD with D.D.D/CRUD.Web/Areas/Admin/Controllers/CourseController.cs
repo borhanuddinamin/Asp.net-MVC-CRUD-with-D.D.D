@@ -1,0 +1,22 @@
+﻿using Autofac;
+using CRUD.Web.Areas.Admin.Models;
+using Microsoft.AspNetCore.Mvc;
+
+namespace CRUD.Web.Areas.Admin.Controllers
+{
+    [Area("Admin")]
+    public class CourseController : Controller
+    {
+
+        ILifetimeScope _lifetimeScope;
+        public CourseController(ILifetimeScope lifetimeScope)
+        {
+            _lifetimeScope = lifetimeScope;
+        }
+        public IActionResult Index()
+        {
+            var model = _lifetimeScope.Resolve<CourseListModel>();
+            return View(model);
+        }
+    }
+}
