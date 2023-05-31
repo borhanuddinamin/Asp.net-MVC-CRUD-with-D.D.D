@@ -19,6 +19,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.6" />
     <PackageReference Include="Serilog.AspNetCore" Version="7.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,6 +28,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CRUD.Applicatiion\CRUD.Applicatiion.csproj" />
+    <ProjectReference Include="..\CRUD.Infrastructure\CRUD.Infrastructure.csproj" />
     <ProjectReference Include="..\CRUD.Persistance\CRUD.Persistance.csproj" />
   </ItemGroup>
 

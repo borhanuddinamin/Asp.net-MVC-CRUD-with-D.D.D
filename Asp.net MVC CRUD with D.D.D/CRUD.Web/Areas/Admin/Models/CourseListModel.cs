@@ -1,6 +1,7 @@
 ﻿
 using Asp.net_MVC_CRUD_with_D.D.D.Models;
 using CRUD.Domain.Services;
+using CRUD.Infrastructure;
 
 namespace CRUD.Web.Areas.Admin.Models
 {
@@ -19,6 +20,30 @@ namespace CRUD.Web.Areas.Admin.Models
         {
             return _CourseServices.GetCourses();
 
+        }
+
+        public async Task<object> GetPagedCoursesAsync
+            (DataTableAjaxRequestUtility dataTableAjaxRequest)
+        {
+            var data = await _CourseServices.GetPageCourseAsync(
+                dataTableAjaxRequest.PageIndex,
+                dataTableAjaxRequest.PageSize,
+                dataTableAjaxRequest.SearchText,
+                dataTableAjaxRequest.GetShortText(
+                    new string[] { "Name", "Fee" }));
+
+            return new
+            {
+                recordTotal = data.total,
+                recordsFiltered = data.totalDispplay,
+                data = (from record in data.records
+                        select new string[]
+                        {
+                           record.Name,
+                           record.Fees.ToString(),
+                           record.id.ToString()
+                        }.ToArray())
+            };
         }
     }
 }

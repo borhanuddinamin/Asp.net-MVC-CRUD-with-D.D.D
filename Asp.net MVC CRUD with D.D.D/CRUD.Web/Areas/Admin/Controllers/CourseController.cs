@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using CRUD.Infrastructure;
 using CRUD.Web.Areas.Admin.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -17,6 +18,16 @@ namespace CRUD.Web.Areas.Admin.Controllers
         {
             var model = _lifetimeScope.Resolve<CourseListModel>();
             return View(model);
+        }
+
+        public async Task<JsonResult> GetCourses()
+        {
+            var dataTableModel = new DataTableAjaxRequestUtility(Request);
+            var model = _lifetimeScope.Resolve<CourseListModel>();
+
+            var data = await model.GetPagedCoursesAsync(dataTableModel);
+            return Json(data);
+
         }
     }
 }

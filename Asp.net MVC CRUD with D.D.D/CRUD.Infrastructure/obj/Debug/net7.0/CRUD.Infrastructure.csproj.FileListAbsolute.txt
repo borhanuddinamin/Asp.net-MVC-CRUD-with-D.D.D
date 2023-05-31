@@ -1,0 +1,12 @@
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\bin\Debug\net7.0\CRUD.Infrastructure.deps.json
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\bin\Debug\net7.0\CRUD.Infrastructure.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\bin\Debug\net7.0\CRUD.Infrastructure.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\obj\Debug\net7.0\CRUD.Infrastructure.csproj.AssemblyReference.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\obj\Debug\net7.0\CRUD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\obj\Debug\net7.0\CRUD.Infrastructure.AssemblyInfoInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\obj\Debug\net7.0\CRUD.Infrastructure.AssemblyInfo.cs
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\obj\Debug\net7.0\CRUD.Infrastructure.csproj.CoreCompileInputs.cache
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\obj\Debug\net7.0\CRUD.Infrastructure.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\obj\Debug\net7.0\refint\CRUD.Infrastructure.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\obj\Debug\net7.0\CRUD.Infrastructure.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Infrastructure\obj\Debug\net7.0\ref\CRUD.Infrastructure.dll

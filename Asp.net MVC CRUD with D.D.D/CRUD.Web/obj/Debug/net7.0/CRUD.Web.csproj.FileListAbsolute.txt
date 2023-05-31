@@ -301,3 +301,12 @@ F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\obj\Deb
 F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\obj\Debug\net7.0\CRUD.Web.genruntimeconfig.cache
 F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\obj\Debug\net7.0\ref\CRUD.Web.dll
 F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\bin\Debug\net7.0\CRUD.Infrastructure.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\bin\Debug\net7.0\CRUD.Infrastructure.pdb
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\bin\Debug\net7.0\System.Data.SqlClient.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\crud\Asp.net-MVC-CRUD-with-D.D.D\Asp.net MVC CRUD with D.D.D\CRUD.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

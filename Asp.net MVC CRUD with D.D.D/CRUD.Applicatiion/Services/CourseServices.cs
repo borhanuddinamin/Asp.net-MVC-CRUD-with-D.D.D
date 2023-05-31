@@ -24,5 +24,16 @@ namespace CRUD.Applicatiion.Services
         {
          return   _UnitofWork.Courses.Getall();
         }
+
+        public async Task<(IList<Course> records, int total, int totalDispplay)>  GetPageCourseAsync
+            (int pageIndex, int PageSize, string searchText, string OrderBy)
+        {
+            return await Task.Run(() =>
+            {
+                var result = _UnitofWork.Courses.GetDynamic(x => x.Name.Contains(searchText), OrderBy=null, null,
+                     pageIndex, PageSize, true);
+                return result;
+            });
+        }
     }
 }

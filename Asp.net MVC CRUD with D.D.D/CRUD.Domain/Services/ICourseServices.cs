@@ -10,5 +10,10 @@ namespace CRUD.Domain.Services
     public  interface ICourseServices
     {
         public IList<Course> GetCourses();
+        Task<(IList<Course> records,int total,int totalDispplay)>GetPageCourseAsync
+              (int pageIndex, int PageSize, string searchText, string OrderBy);
+
+
+       
     }
 }
